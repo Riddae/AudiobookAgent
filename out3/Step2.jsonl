@@ -1,0 +1,18 @@
+{audio_type: "bgm", layout: "background", id: 1, action: "start", vol: -38, desc: "Orchestral journey music with a sense of anticipation", begin_fg_audio_id: 0, end_fg_audio_id: 15}
+{audio_type: "sfx", layout: "foreground", vol: -30, duration: 3, desc: "Distant ocean waves sound, gradually increasing", id: 0}
+{audio_type: "sfx", layout: "foreground", vol: -25, duration: 2, desc: "Sound of wind blowing through coastal vegetation", id: 1}
+{audio_type: "sfx", layout: "foreground", vol: -28, duration: 2, desc: "Sound of rustling leaves and branches as they push through", id: 2}
+{audio_type: "speech", layout: "foreground", speaker: "旁白", vol: -15, text: "唐僧师徒四人一路风尘仆仆，日夜兼程，直奔西天。终于，在又一次翻越峻岭之后，一阵阵隐约的涛声传入耳畔，伴随着咸湿的海风扑面而来。当他们拨开最后的树丛，眼前豁然开朗，一片广袤无垠的蔚蓝大海呈现在眼前。", speaking_style: "平静自然，略带描绘感", id: 3}
+{audio_type: "sfx", layout: "foreground", vol: -30, duration: 3, desc: "Sound of gentle ocean waves washing ashore", id: 4}
+{audio_type: "speech", layout: "foreground", speaker: "唐僧", vol: -15, text: "阿弥陀佛……善哉善哉！此处便是海边了？", speaking_style: "略带疲惫，惊叹", id: 5}
+{audio_type: "speech", layout: "foreground", speaker: "猪八戒", vol: -15, text: "哎呀，师父！这可走到头了！前面竟是水，水，水！放眼望去，连个尽头都没有，这可如何是好？莫不是要我们长出翅膀飞过去不成？", speaking_style: "夸张，抱怨，略带惊慌", id: 6}
+{audio_type: "sfx", layout: "foreground", vol: -35, duration: 2, desc: "Distant seagull cries", id: 7}
+{audio_type: "speech", layout: "foreground", speaker: "孙悟空", vol: -15, text: "呆子，莫要聒噪！这便是东海之滨了。师父，徒儿瞧这海域辽阔，波涛汹涌，不见舟楫，恐难渡也。看来寻常法子是过不去了。", speaking_style: "沉稳，略带不耐烦，观察入微", id: 8}
+{audio_type: "speech", layout: "foreground", speaker: "沙悟净", vol: -15, text: "大师兄所言不虚。水面浩瀚无边，若无大型船只，恐难轻易渡过。不知前方可有渡口，或能借宿的渔村？", speaking_style: "稳重，略带担忧，提出疑问", id: 9}
+{audio_type: "speech", layout: "foreground", speaker: "唐僧", vol: -15, text: "唉，此去西天取经，果真道阻且长。既是海边，前方定有渡口或渔村。悟空，你且去前方探看一番，看是否有船只可渡我们师徒，或是是否有其他蹊径。", speaking_style: "略带感慨，坚定，给予指示", id: 10}
+{audio_type: "speech", layout: "foreground", speaker: "猪八戒", vol: -15, text: "师父，那可要走多久才到啊？我的肚子早就咕咕叫了，这海边可有什么好吃的？海鲜？螃蟹？要是能捞点上来充饥就好了。", speaking_style: "饥饿，急切，充满想象", id: 11}
+{audio_type: "speech", layout: "foreground", speaker: "孙悟空", vol: -15, text: "你这呆子，只知吃食！且在此等候，老孙去去就回！", speaking_style: "无奈，带点呵斥，利索", id: 12}
+{audio_type: "sfx", layout: "foreground", vol: -20, duration: 2, desc: "Whoosh sound of rapid departure (e.g., a powerful flight)", id: 13}
+{audio_type: "speech", layout: "foreground", speaker: "旁白", vol: -15, text: "说罢，孙悟空一个筋斗云，便化作一道金光，眨眼间消失在天际。唐僧、猪八戒和沙悟净则在海边寻了一处背风的地方，看着眼前浩瀚无垠的蓝色大海，听着海浪拍打礁石的声音，等待着孙悟空的归来。", speaking_style: "平静自然，描绘性强", id: 14}
+{audio_type: "sfx", layout: "foreground", vol: -30, duration: 3, desc: "Continuous sound of ocean waves and distant seagulls", id: 15}
+{audio_type: "bgm", layout: "background", id: 1, action: "stop"}

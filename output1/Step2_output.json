@@ -1,0 +1,26 @@
+{audio_type: "bgm", layout: "background", id:1, action: "start", vol: -38, desc: "Ambient music for a long journey, transitioning to an expansive, slightly ominous tone suggesting a vast, unknown river and the chaldurationges ahead.", begin_fg_audio_id: 0, end_fg_audio_id: 9}
+{audio_type: "sfx", layout: "foreground", vol: -33, duration: 3, desc: "Sound of desolate wind blowing across an open landscape, with a growing, distant rumble and wash of a massive body of water."}
+{audio_type: "speech", layout: "foreground", speaker: "旁白", vol: -15, text: "师徒四人一路西行，风餐露宿，历尽艰辛。这一日，他们来到一处水天相接的所在，只见白浪滔天，烟波浩渺，挡住了西去的道路。", speaking_style: "平静沉稳，略带神秘", id: 0}
+{audio_type: "sfx", layout: "foreground", vol: -27, duration: 4, desc: "The full, powerful sound of a vast river with large waves crashing against a shore and strong, gusty wind, conveying immense scale and power.",id: 1}
+{audio_type: "speech", layout: "foreground", speaker: "唐僧", vol: -15, text: "阿弥陀佛！悟空，你看这水势，比那流沙河、黑水河又不知宽阔多少倍，如何是好啊？", speaking_style: "忧虑，带着几分绝望", id: 2}
+{audio_type: "speech", layout: "foreground", speaker: "猪八戒", vol: -15, text: "我的娘欸！这哪里是河，分明就是个海！师父，这下可真完了！我看呐，咱们还是趁早散伙，我回我的高老庄，猴哥回他的花果山，沙师弟回他的流沙河，您老人家也回东土大唐享福去吧！", speaking_style: "夸张，泄气，带着哭腔", id: 3}
+{audio_type: "speech", layout: "foreground", speaker: "孙悟空", vol: -15, text: "呆子！又说这等没出息的丧气话！师父莫愁，待老孙先到水边看看，再驾筋斗云到空中探个究竟，看这河到底有多宽，有无船只可以渡过。", speaking_style: "自信，略带不耐烦（对八戒），安慰（对唐僧）", id: 4}
+{audio_type: "speech", layout: "foreground", speaker: "李靖", vol: -15, text: "大师兄说的是。师父，凡事都有个解决的办法。大师兄神通广大，定能寻到过河之法。", speaking_style: "沉稳，憨厚，充满信任", id: 5}
+{audio_type: "speech", layout: "foreground", speaker: "唐僧", vol: -15, text: "唉，也只好如此了。悟空，你此去务必小心，这水域如此广阔，恐有水怪妖邪作祟。", speaking_style: "无奈，担忧，叮嘱", id: 6}
+{audio_type: "speech", layout: "foreground", speaker: "孙悟空", vol: -15, text: "师父放心！老孙去去就来！八戒，看好师父和行李，若有差池，俺老孙回来定不饶你！", speaking_style: "爽快，带着警告（对八戒）", id: 7}
+{audio_type: "speech", layout: "foreground", speaker: "猪八戒", vol: -15, text: "知道啦，知道啦！猴哥你快去快回，俺老猪也怕水。", speaking_style: "嘟囔，有些不情愿但又不敢反驳", id: 8}
+{audio_type: "sfx", layout: "foreground", vol: -26, duration: 1.0, desc: "Sharp, quick 'whoosh' sound effect of a character jumping or moving swiftly to a new position.",id: 9}
+{audio_type: "bgm", layout: "background", id:1, action: "stop"}
+{audio_type: "bgm", layout: "background", id:2, action: "start", vol: -36, desc: "Investigative and slightly magical underscore music, building gentle tension, with subtle continuous elements of flowing water or deep river rumbles.", begin_fg_audio_id: 10, end_fg_audio_id: 20}
+{audio_type: "sfx", layout: "foreground", vol: -27, duration: 5, desc: "Close-up environmental sound of a very wide and powerful river: strong, deep current sounds, large waves breaking rhythmically, and persistent gusty wind by the water's edge. Imposing and continuous.", id: 10}
+{audio_type: "speech", layout: "foreground", speaker: "旁白", vol: -15, text: "孙悟空应了一声，纵身一跃，来到水边。只见这通天河，约摸有八百里宽阔，水流湍急，波涛汹涌，望不到对岸。他又一个筋斗翻上云头，睁开火眼金睛，四下里一望。", speaking_style: "描述场景，略带紧张", id: 11}
+{audio_type: "sfx", layout: "foreground", vol: -25, duration: 2.5, desc: "Magical 'swoosh' or 'rising wind' sound effect, clear and distinct, indicating someone taking flight rapidly on a cloud or by magical means.",id: 12}
+{audio_type: "sfx", layout: "foreground", vol: -30, duration: 1.5, desc: "Subtle, brief magical 'shimmer,' 'chime,' or 'focusing' sound effect, indicating the activation of special sight or perception.",id: 13}
+{audio_type: "sfx", layout: "foreground", vol: -29, duration: 3.0, desc: "Low, ominous, and unsettling drone or deep humming sound, perhaps with a slight watery distortion or echo, suggesting the discovery of a hidden, malevodurationt presence.",id: 14}
+{audio_type: "speech", layout: "foreground", speaker: "孙悟空", vol: -15, text: "嘿！这河面果然宽广！嗯？奇怪，这水底深处，似乎有一股若有若无的妖气……且待我仔细看看对岸有无人烟。", speaking_style: "先是感叹，后转疑惑和警惕", id: 15}
+{audio_type: "speech", layout: "foreground", speaker: "旁白", vol: -15, text: "悟空凝神细看，只见那遥远的对岸，隐隐约约似乎有灯火人家。他心中一喜，正要下去回报，忽然，河面上卷起一股腥风，水浪翻滚得更加厉害了。", speaking_style: "情节推进，制造悬念", id: 16}
+{audio_type: "sfx", layout: "foreground", vol: -22, duration: 4.5, desc: "Sudden, sharp gust of strong, eerie wind with an unnatural, 'fishy' or 'damp cold' quality, accompanied by an abrupt increase in the sound of turbudurationt, viodurationtly crashing water waves and water splashes.",  id: 17}
+{audio_type: "speech", layout: "foreground", speaker: "唐僧", vol: -15, text: "八戒，悟净，你们看，河面上似乎起了变化！莫不是悟空遇到了什么麻烦？", speaking_style: "焦急，不安", id: 18}
+{audio_type: "speech", layout: "foreground", speaker: "李靖", vol: -15, text: "师父莫慌，大师兄本领高强，应该无碍。只是这风浪确实来得蹊跷。", speaking_style: "尽力安抚，但也带着一丝警觉", id: 19}
+{audio_type: "speech", layout: "foreground", speaker: "猪八戒", vol: -15, text: "哎呀，不会真有什么妖怪出来了吧？猴哥，你可快点回来啊！俺老猪这心里七上八下的！", speaking_style: "害怕，夸张地叫嚷", id: 20}
+{audio_type: "bgm", layout: "background", id:2, action: "stop"}

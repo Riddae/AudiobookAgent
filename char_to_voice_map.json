@@ -1,0 +1,38 @@
+{
+    "孙悟空": {
+      "id": "孙悟空",
+      "npz_path": "voices/sunwukong.npz"
+    },
+    "猪八戒": {
+      "id": "猪八戒",
+      "npz_path": "voices/zhubajie.npz"
+    },
+    "旁白": {
+      "id": "旁白",
+      "npz_path": "voices/narrator.npz"
+    },
+    "唐僧": {
+      "id": "孙悟空",
+      "npz_path": "voices/sunwukong.npz"
+    },
+    "李靖": {
+      "id": "猪八戒",
+      "npz_path": "voices/zhubajie.npz"
+    },
+    "敖丙": {
+      "id": "旁白",
+      "npz_path": "voices/narrator.npz"
+    },
+    "殷夫人": {
+      "id": "猪八戒",
+      "npz_path": "voices/zhubajie.npz"
+    },
+    "中文女": {
+      "id": "旁白",
+      "npz_path": "voices/narrator.npz"
+    },
+    "沙悟净": {
+      "id": "旁白",
+      "npz_path": "voices/narrator.npz"
+    }
+  }

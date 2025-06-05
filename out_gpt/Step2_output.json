@@ -1,0 +1,19 @@
+{audio_type: "bgm", layout: "background", id: 1, action: "start", vol: -37, desc: "Thumping nightclub electronic music with global flavors, energetic and busy", begin_fg_audio_id: 0, end_fg_audio_id: 16}
+{audio_type: "sfx", layout: "foreground", vol: -34, duration: 3, desc: "Neon lights flickering and crowd ambient chatter", id: 0}
+{audio_type: "speech", layout: "foreground", speaker: "旁白", vol: -15, text: "夜幕降临，霓虹灯初上，唐僧师徒四人踏进了都市中心最热闹的夜店。音乐震耳欲聋，灯光如水流转，异域气息扑面而来。", speaking_style: "低沉神秘", id: 1}
+{audio_type: "speech", layout: "foreground", speaker: "孙悟空", vol: -15, text: "师傅，这地方好热闹啊！您不是说不问世事吗，怎么今天要来这儿凑热闹？", speaking_style: "调皮揶揄", id: 2}
+{audio_type: "sfx", layout: "foreground", vol: -36, duration: 2, desc: "People laughing and glasses clinking", id: 3}
+{audio_type: "speech", layout: "foreground", speaker: "唐僧", vol: -15, text: "悟空，此处人声鼎沸，别有洞天。为师也想亲身体验一下凡尘百态，增长见识。", speaking_style: "温和好奇", id: 4}
+{audio_type: "speech", layout: "foreground", speaker: "猪八戒", vol: -15, text: "师傅英明啊！师兄，我听说这里的烤串特别香，酒水也都是仙酿，不如咱们先尝尝？", speaking_style: "馋嘴憨厚", id: 5}
+{audio_type: "sfx", layout: "foreground", vol: -38, duration: 2, desc: "Barbecue skewers sizzling on a grill", id: 6}
+{audio_type: "speech", layout: "foreground", speaker: "李靖", vol: -15, text: "二师兄，可别贪杯误了正事。师傅，您想坐哪儿？要不我们找个安静点的位置？", speaking_style: "认真细致", id: 7}
+{audio_type: "speech", layout: "foreground", speaker: "唐僧", vol: -15, text: "就随你们安排吧，但不可胡来。务必记得，莫要招惹是非。", speaking_style: "语重心长", id: 8}
+{audio_type: "sfx", layout: "foreground", vol: -40, duration: 3, desc: "Soft footsteps and chairs moving against wooden floor", id: 9}
+{audio_type: "speech", layout: "foreground", speaker: "孙悟空", vol: -15, text: "放心，师傅！有俺老孙在，没人敢惹咱们。", speaking_style: "自信豪迈", id: 10}
+{audio_type: "speech", layout: "foreground", speaker: "猪八戒", vol: -15, text: "嘿嘿嘿，那俺就去把烤串点上！沙师弟，看好师傅，别让他喝多了！", speaking_style: "嬉皮笑脸", id: 11}
+{audio_type: "sfx", layout: "foreground", vol: -39, duration: 2, desc: "Order bell ringing at a bar counter", id: 12}
+{audio_type: "speech", layout: "foreground", speaker: "李靖", vol: -15, text: "好的，二师兄。师傅，您要喝点什么？这里有果汁、茶，还有……呃，仙人特酿。", speaking_style: "谨慎关切", id: 13}
+{audio_type: "speech", layout: "foreground", speaker: "唐僧", vol: -15, text: "为师只要一杯清茶便好。悟空，你可别闹事。", speaking_style: "温和叮嘱", id: 14}
+{audio_type: "sfx", layout: "foreground", vol: -37, duration: 3, desc: "Dance floor sounds: sneakers sliding and crowd cheering as music intensifies", id: 15}
+{audio_type: "speech", layout: "foreground", speaker: "旁白", vol: -15, text: "师徒四人就这样在夜店中各自忙碌，唐僧端坐一隅，李靖细心照看。孙悟空已悄然溜到舞池边，一展“筋斗舞技”，猪八戒更是大快朵颐，乐在其中。", speaking_style: "轻松诙谐", id: 16}
+{audio_type: "bgm", layout: "background", id: 1, action: "stop"}

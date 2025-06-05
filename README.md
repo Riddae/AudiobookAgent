@@ -5,8 +5,6 @@
 
 This repository helps you set up the environment and dependencies required for running the AudiobookAgent system, which involves cloning relevant repositories, setting up a Conda environment, and downloading pretrained models.
 
-## Steps
-
 ### 1. **Clone the Repositories**
 
 First, clone the necessary repositories for this project:
@@ -78,32 +76,4 @@ pip install ttsfrd_dependency-0.1-py3-none-any.whl
 pip install ttsfrd-0.4.2-cp310-cp310-linux_x86_64.whl
 ```
 
-### 6. **Ready to Use**
 
-Your environment is now set up! You can start using the AudiobookAgent with CosyVoice and the MMAudio repository.
-
----
-
-## Troubleshooting
-
-* Ensure you have activated your Conda environment before running commands.
-* If any installation fails, try using `pip install --upgrade` for problematic packages.
-* If the `unzip` command fails, make sure that `resource.zip` is present in the `CosyVoice-ttsfrd` directory.
-
----
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-
-### 说明：
-1. **标题**：给出了清晰的项目名称和设置指南。
-2. **步骤清晰**：将每个步骤列出了清晰的命令，让用户可以逐步执行。
-3. **下载模型**：解释了如何下载和解压所需的预训练模型。
-4. **依赖安装**：特别强调了必要的 Conda 和 pip 安装步骤。
-5. **故障排除**：简单说明了常见问题及其解决方法。
-
-如果你有任何额外的说明或者需要做调整，随时告诉我！
-```
